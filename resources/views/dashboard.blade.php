@@ -15,10 +15,10 @@
     </div>
 
     <div class="row g-3 mt-3" id="dashboard-stats">
-        <div class="col-sm-6 col-xl-3"><div class="stat-card"><span class="stat-label">Customers</span><strong id="stat-customers">—</strong><span class="stat-foot">In your workspace</span></div></div>
-        <div class="col-sm-6 col-xl-3"><div class="stat-card"><span class="stat-label">Properties</span><strong id="stat-properties">—</strong><span class="stat-foot">Service locations</span></div></div>
-        <div class="col-sm-6 col-xl-3"><div class="stat-card"><span class="stat-label">Upcoming visits</span><strong id="stat-upcoming">—</strong><span class="stat-foot">Scheduled field work</span></div></div>
-        <div class="col-sm-6 col-xl-3"><div class="stat-card"><span class="stat-label">Completed this month</span><strong id="stat-completed">—</strong><span class="stat-foot">Visits completed</span></div></div>
+        <div class="col-6 col-xl-3"><div class="stat-card"><span class="stat-label">Customers</span><strong id="stat-customers">—</strong><span class="stat-foot">In your workspace</span></div></div>
+        <div class="col-6 col-xl-3"><div class="stat-card"><span class="stat-label">Properties</span><strong id="stat-properties">—</strong><span class="stat-foot">Service locations</span></div></div>
+        <div class="col-6 col-xl-3"><div class="stat-card"><span class="stat-label">Upcoming visits</span><strong id="stat-upcoming">—</strong><span class="stat-foot">Scheduled field work</span></div></div>
+        <div class="col-6 col-xl-3"><div class="stat-card"><span class="stat-label">Completed this month</span><strong id="stat-completed">—</strong><span class="stat-foot">Visits completed</span></div></div>
     </div>
 
     <section class="content-card mt-4">
